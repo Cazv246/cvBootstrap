@@ -1,0 +1,41 @@
+body {
+    background-color: #F0F0F0;
+  }
+  
+  .container {
+    max-width: 800px;
+  }
+  
+  h1, h2, h3, h4 {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  p {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  hr {
+    border-top: 1px solid #ccc;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .d-flex {
+    display: flex;
+  }
+  
+  .align-items-center {
+    align-items: center;
+  }
+  
+  .fa-2x {
+    font-size: 2rem;
+  }
+  
+  .mr-4 {
+    margin-right: 1rem;
+  }
+  
+  
